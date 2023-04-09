@@ -27,38 +27,37 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/l4c1f2r'
-global.syt = 'https://youtube.com/@Putra_Modz_'
-global.sgh = 'https://github.com/Lucife-Putra'
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.sdc = 'https://wa.me/6282214729677'
-global.swa = 'wa.me/682214729677'
-global.swb = 'https://discord.gg/'
+global.sig = 'https://instagram.com/wxizyy._'
+global.syt = 'https://youtube.com/@PutraGTPS'
+global.sgh = 'https://github.com/Wxizyy'
+global.sgc = 'https://chat.whatsapp.com/IF5WwdA4kP4ILfeXTEgbqq'
+global.sdc = 'https://wa.me/6288231687963'
+global.swa = 'wa.me/688231687963'
+global.swb = '-'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
+global.pdana = '088231687963'
+global.povo = '088231687963'
+global.pgopay = '088231687963'
+global.ppulsa = '088231687963'
+global.ppulsa2 = '088231687963'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
-global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nomorbot = '62857539505187'
+global.nomorown = '6288231687963'
+global.namebot = 'WxizyyBotz'
+global.nameown = 'Wxizyy'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677'],
-  ['6283863727733'],
-  ['62838637277192'],
-  ['6282214729677', 'PutraModz', true]
-  // [number, dia creator/owner?, dia developer?]
-] // Put your number here
+  ['6288231687963'],
+  ['62857539505187'],
+  ['6288231687963', 'Wxizyy', true]
+  // [6288231687963, creator, developer]
+] // 6288231687963
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
@@ -108,17 +107,17 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.gcname = '𝑺𝒊𝒎𝒑𝒍𝒆 𝑩𝒐𝒕 𝑾𝒉𝒂𝒕𝒔𝑨𝒑𝒑 𝑩𝒚 𝘼𝙗𝙞𝘿𝙚𝙫'//nama group kalian
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraModz'
-global.wm3 = 'NexBotz | By PutraModz'
+global.gcname = 'SIMPLE BOT WA BY Wxizyy'//nama group kalian
+global.wm = 'By WxizyyBotz' //Main Watermark
+global.wm2 = 'Wxizyy'
+global.wm3 = 'WxizyyBotz | By Wxizyy'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'PutraModz' 
-global.packname = 'PutraModz'
+global.author = 'Wxizyy' 
+global.packname = 'Wxizyy'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Februari 02 2023'
+global.ultahowner = 'September 10 2005'
 
 
 /*============== LOGO ==============*/
@@ -135,11 +134,11 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'PutraModz'
-global.umurowner = '18'
-global.asalowner = 'Jawa Barat, Kuningan'
-global.nomorowner = 'wa.me/6282214729677'
-global.pacarowner = 'Amelia Putri septiany'
+global.nameowner = 'Wxizyy'
+global.umurowner = '17'
+global.asalowner = 'Jawa Timur, Surabaya'
+global.nomorowner = 'wa.me/6288231687963'
+global.pacarowner = 'Masih Jomblo -_-'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -387,8 +386,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
-global.stickauth = `PutraModz`
+global.stickpack = 'By WxizyyBotz'
+global.stickauth = `Wxizyy`
 
 global.multiplier = 38 // The higher, The harder levelup
 
